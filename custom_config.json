@@ -1,0 +1,8 @@
+{
+  "voice_enabled": true,
+  "log_level": "INFO",
+  "supported_apps": ["notepad", "calculator", "browser"],
+  "fallback_mode": true,
+  "screenshot_on_error": true,
+  "background_execution": true
+}

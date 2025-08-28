@@ -1,0 +1,12 @@
+{
+  "tier1": [
+    {"test_name": "Open Notepad", "command": "open notepad", "expected": "application launched"},
+    {"test_name": "Open Calculator", "command": "open calculator", "expected": "application launched"}
+  ],
+  "tier2": [
+    {"test_name": "Create and Save File", "command": "create file report.txt and save", "expected": "file created and saved"}
+  ],
+  "tier3": [
+    {"test_name": "Build and Deploy Project", "command": "build and deploy smartos", "expected": "project built and deployed"}
+  ]
+}

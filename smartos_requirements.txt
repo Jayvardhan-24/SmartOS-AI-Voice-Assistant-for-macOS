@@ -1,0 +1,5 @@
+SpeechRecognition
+Flask
+flask-cors
+pyttsx3
+pyaudio

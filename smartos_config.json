@@ -1,0 +1,31 @@
+{
+  "voice_enabled": true,
+  "supported_apps": [
+    "safari",
+    "calendar",
+    "finder",
+    "terminal",
+    "settings"
+  ],
+  "custom_commands": {
+    "safari": {
+      "macos": "open -a Safari"
+    },
+    "calendar": {
+      "macos": "open -a Calendar"
+    },
+    "finder": {
+      "macos": "open -a Finder"
+    },
+    "terminal": {
+      "macos": "open -a Terminal"
+    },
+    "settings": {
+      "macos": "open -b com.apple.systempreferences"
+    }
+  },
+  "ui": {
+    "enabled": true,
+    "port": 8080
+  }
+}
