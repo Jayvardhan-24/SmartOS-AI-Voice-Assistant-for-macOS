@@ -1,0 +1,86 @@
+2025-08-28 17:15:16,577 - INFO - Voice components initialized successfully
+2025-08-28 17:15:16,578 - INFO - SmartOS Text Assistant started. Type 'exit' to quit.
+2025-08-28 17:15:42,283 - INFO - Processing command: open calculator
+2025-08-28 17:15:42,283 - INFO - Parsed intent: {'action': 'open_application', 'target': 'calculator', 'parameters': {}, 'confidence': 0.9, 'original_command': 'open calculator'}
+2025-08-28 17:16:50,978 - INFO - Processing command: python smartos_main.py --mode voice
+2025-08-28 17:16:50,979 - INFO - Parsed intent: {'action': 'unknown', 'target': '', 'parameters': {}, 'confidence': 0.0, 'original_command': 'python smartos_main.py --mode voice'}
+2025-08-28 17:17:02,404 - INFO - Voice components initialized successfully
+2025-08-28 17:17:02,405 - INFO - SmartOS Voice Assistant started. Say 'exit' to quit.
+2025-08-28 17:17:15,875 - INFO - Processing command: open calculator
+2025-08-28 17:17:15,876 - INFO - Parsed intent: {'action': 'open_application', 'target': 'calculator', 'parameters': {}, 'confidence': 0.9, 'original_command': 'open calculator'}
+2025-08-28 17:17:34,972 - INFO - Voice components initialized successfully
+2025-08-28 17:17:34,973 - INFO - SmartOS Text Assistant started. Type 'exit' to quit.
+2025-08-28 17:18:03,608 - INFO - Processing command: open safari
+2025-08-28 17:18:03,609 - INFO - Parsed intent: {'action': 'open_application', 'target': '', 'parameters': {}, 'confidence': 0.0, 'original_command': 'open safari'}
+2025-08-28 17:18:12,840 - INFO - Processing command: open calendar
+2025-08-28 17:18:12,841 - INFO - Parsed intent: {'action': 'open_application', 'target': '', 'parameters': {}, 'confidence': 0.0, 'original_command': 'open calendar'}
+2025-08-28 17:25:22,937 - INFO - Voice components initialized successfully
+2025-08-28 17:25:22,938 - INFO - SmartOS Voice Assistant started. Say 'exit' to quit.
+2025-08-28 17:25:32,011 - INFO - Processing command: create report dot t
+2025-08-28 17:25:32,011 - INFO - Parsed intent: {'action': 'file_operation', 'target': 'create', 'parameters': {}, 'confidence': 0.8, 'original_command': 'create report dot t'}
+2025-08-28 18:24:16,024 - INFO - Voice components initialized successfully
+2025-08-28 18:24:16,026 - INFO - SmartOS Text Assistant started. Type 'exit' to quit.
+2025-08-28 18:24:24,097 - INFO - Processing command: open calculator
+2025-08-28 18:24:24,098 - INFO - Parsed intent: {'action': 'open_application', 'target': 'calculator', 'parameters': {}, 'confidence': 0.9, 'original_command': 'open calculator'}
+2025-08-28 18:24:38,615 - INFO - Voice components initialized successfully
+2025-08-28 18:24:38,616 - INFO - SmartOS Voice Assistant started. Say 'exit' to quit.
+2025-08-28 18:31:11,610 - INFO - Voice components initialized successfully
+2025-08-28 18:31:11,612 - INFO - SmartOS Voice Assistant started. Say 'exit' to quit.
+2025-08-28 18:31:26,596 - INFO - Processing command: open Notepad
+2025-08-28 18:31:26,598 - INFO - Parsed intent: {'action': 'open_application', 'target': 'notepad', 'parameters': {}, 'confidence': 0.9, 'original_command': 'open Notepad'}
+2025-08-28 18:31:41,736 - INFO - Processing command: open browser
+2025-08-28 18:31:41,738 - INFO - Parsed intent: {'action': 'open_application', 'target': 'browser', 'parameters': {}, 'confidence': 0.9, 'original_command': 'open browser'}
+2025-08-28 18:34:37,177 - INFO - Voice components initialized successfully
+2025-08-28 18:34:37,179 - INFO - SmartOS Voice Assistant started. Say 'exit' to quit.
+2025-08-28 18:34:48,336 - INFO - Processing command: hello
+2025-08-28 18:34:48,336 - INFO - Parsed intent: {'action': 'unknown', 'target': '', 'parameters': {}, 'confidence': 0.0, 'original_command': 'hello'}
+2025-08-28 18:35:04,288 - INFO - Processing command: what's the time
+2025-08-28 18:35:04,289 - INFO - Parsed intent: {'action': 'unknown', 'target': '', 'parameters': {}, 'confidence': 0.0, 'original_command': "what's the time"}
+2025-08-28 18:35:12,965 - INFO - Processing command: open YouTube
+2025-08-28 18:35:12,966 - INFO - Parsed intent: {'action': 'open_application', 'target': '', 'parameters': {}, 'confidence': 0.0, 'original_command': 'open YouTube'}
+2025-08-28 18:35:18,062 - INFO - Processing command: open browser
+2025-08-28 18:35:18,063 - INFO - Parsed intent: {'action': 'open_application', 'target': 'browser', 'parameters': {}, 'confidence': 0.9, 'original_command': 'open browser'}
+2025-08-28 18:35:26,892 - INFO - Processing command: open Google
+2025-08-28 18:35:26,893 - INFO - Parsed intent: {'action': 'open_application', 'target': '', 'parameters': {}, 'confidence': 0.0, 'original_command': 'open Google'}
+2025-08-28 18:35:37,463 - INFO - Processing command: open text editor
+2025-08-28 18:35:37,463 - INFO - Parsed intent: {'action': 'open_application', 'target': 'notepad', 'parameters': {}, 'confidence': 0.9, 'original_command': 'open text editor'}
+2025-08-28 18:35:44,172 - INFO - Processing command: open terminal
+2025-08-28 18:35:44,173 - INFO - Parsed intent: {'action': 'open_application', 'target': 'cmd', 'parameters': {}, 'confidence': 0.9, 'original_command': 'open terminal'}
+2025-08-28 18:35:52,718 - INFO - Processing command: open vs code
+2025-08-28 18:35:52,718 - INFO - Parsed intent: {'action': 'open_application', 'target': 'code', 'parameters': {}, 'confidence': 0.9, 'original_command': 'open vs code'}
+2025-08-28 18:35:59,641 - INFO - Processing command: open Safari
+2025-08-28 18:35:59,641 - INFO - Parsed intent: {'action': 'open_application', 'target': '', 'parameters': {}, 'confidence': 0.0, 'original_command': 'open Safari'}
+2025-08-28 18:36:04,081 - INFO - Processing command: open Chrome
+2025-08-28 18:36:04,082 - INFO - Parsed intent: {'action': 'open_application', 'target': 'browser', 'parameters': {}, 'confidence': 0.9, 'original_command': 'open Chrome'}
+2025-08-28 18:38:27,421 - INFO - Voice components initialized successfully
+2025-08-28 18:38:27,423 - INFO - SmartOS Voice Assistant started. Say 'exit' to quit.
+2025-08-28 18:38:35,889 - INFO - Processing command: open browser
+2025-08-28 18:38:35,889 - INFO - Parsed intent: {'action': 'open_application', 'target': 'browser', 'parameters': {}, 'confidence': 0.9, 'original_command': 'open browser'}
+2025-08-28 18:38:42,890 - INFO - Processing command: open calculator
+2025-08-28 18:38:42,892 - INFO - Parsed intent: {'action': 'open_application', 'target': 'calculator', 'parameters': {}, 'confidence': 0.9, 'original_command': 'open calculator'}
+2025-08-28 18:39:16,186 - INFO - Processing command: open calendar
+2025-08-28 18:39:16,186 - INFO - Parsed intent: {'action': 'open_application', 'target': '', 'parameters': {}, 'confidence': 0.0, 'original_command': 'open calendar'}
+2025-08-28 18:39:26,418 - INFO - Processing command: write a text file
+2025-08-28 18:39:26,418 - INFO - Parsed intent: {'action': 'file_operation', 'target': 'write', 'parameters': {}, 'confidence': 0.8, 'original_command': 'write a text file'}
+2025-08-28 18:39:36,127 - INFO - Processing command: open WhatsApp
+2025-08-28 18:39:36,128 - INFO - Parsed intent: {'action': 'open_application', 'target': '', 'parameters': {}, 'confidence': 0.0, 'original_command': 'open WhatsApp'}
+2025-08-28 18:44:12,813 - INFO - Voice components initialized successfully
+2025-08-28 18:44:12,814 - INFO - SmartOS Voice Assistant started. Say 'exit' to quit.
+2025-08-28 18:44:20,214 - INFO - Processing command: open browser
+2025-08-28 18:44:20,214 - INFO - Parsed intent: {'action': 'open_application', 'target': 'browser', 'parameters': {}, 'confidence': 0.9, 'original_command': 'open browser'}
+2025-08-28 18:44:26,768 - INFO - Processing command: open calculator
+2025-08-28 18:44:26,768 - INFO - Parsed intent: {'action': 'open_application', 'target': 'calculator', 'parameters': {}, 'confidence': 0.9, 'original_command': 'open calculator'}
+2025-08-28 18:45:10,865 - INFO - Voice components initialized successfully
+2025-08-28 18:45:10,866 - INFO - SmartOS Text Assistant started. Type 'exit' to quit.
+2025-08-28 18:45:17,182 - INFO - Processing command: open browser
+2025-08-28 18:45:17,183 - INFO - Parsed intent: {'action': 'open_application', 'target': 'browser', 'parameters': {}, 'confidence': 0.9, 'original_command': 'open browser'}
+2025-08-28 18:45:29,294 - INFO - Processing command: open calculator
+2025-08-28 18:45:29,294 - INFO - Parsed intent: {'action': 'open_application', 'target': 'calculator', 'parameters': {}, 'confidence': 0.9, 'original_command': 'open calculator'}
+2025-08-28 18:45:38,627 - INFO - Processing command: open youtube
+2025-08-28 18:45:38,627 - INFO - Parsed intent: {'action': 'open_application', 'target': '', 'parameters': {}, 'confidence': 0.0, 'original_command': 'open youtube'}
+2025-08-28 18:45:44,392 - INFO - Processing command: open terminal
+2025-08-28 18:45:44,392 - INFO - Parsed intent: {'action': 'open_application', 'target': 'cmd', 'parameters': {}, 'confidence': 0.9, 'original_command': 'open terminal'}
+2025-08-28 18:45:54,957 - INFO - Processing command: open texteditor
+2025-08-28 18:45:54,957 - INFO - Parsed intent: {'action': 'open_application', 'target': '', 'parameters': {}, 'confidence': 0.0, 'original_command': 'open texteditor'}
+2025-08-28 18:46:02,780 - INFO - Processing command: open text editor
+2025-08-28 18:46:02,780 - INFO - Parsed intent: {'action': 'open_application', 'target': 'notepad', 'parameters': {}, 'confidence': 0.9, 'original_command': 'open text editor'}

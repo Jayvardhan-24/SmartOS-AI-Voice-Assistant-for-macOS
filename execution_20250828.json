@@ -1,0 +1,342 @@
+[
+  {
+    "timestamp": "2025-08-28T17:15:42.295044",
+    "command": "open calculator",
+    "intent": {
+      "action": "open_application",
+      "target": "calculator",
+      "parameters": {},
+      "confidence": 0.9,
+      "original_command": "open calculator"
+    },
+    "result": {
+      "success": true,
+      "message": "Successfully launched calculator",
+      "execution_time": 0.011155843734741211
+    },
+    "execution_time": 0.011155843734741211
+  },
+  {
+    "timestamp": "2025-08-28T17:17:15.883966",
+    "command": "open calculator",
+    "intent": {
+      "action": "open_application",
+      "target": "calculator",
+      "parameters": {},
+      "confidence": 0.9,
+      "original_command": "open calculator"
+    },
+    "result": {
+      "success": true,
+      "message": "Successfully launched calculator",
+      "execution_time": 0.0076901912689208984
+    },
+    "execution_time": 0.0076901912689208984
+  },
+  {
+    "timestamp": "2025-08-28T17:25:32.013326",
+    "command": "create report dot t",
+    "intent": {
+      "action": "file_operation",
+      "target": "create",
+      "parameters": {},
+      "confidence": 0.8,
+      "original_command": "create report dot t"
+    },
+    "result": {
+      "success": true,
+      "message": "Created file: untitled.txt",
+      "execution_time": 0.0014889240264892578
+    },
+    "execution_time": 0.0014889240264892578
+  },
+  {
+    "timestamp": "2025-08-28T18:24:24.108072",
+    "command": "open calculator",
+    "intent": {
+      "action": "open_application",
+      "target": "calculator",
+      "parameters": {},
+      "confidence": 0.9,
+      "original_command": "open calculator"
+    },
+    "result": {
+      "success": true,
+      "message": "Successfully launched calculator",
+      "execution_time": 0.009432077407836914
+    },
+    "execution_time": 0.009432077407836914
+  },
+  {
+    "timestamp": "2025-08-28T18:31:26.607734",
+    "command": "open Notepad",
+    "intent": {
+      "action": "open_application",
+      "target": "notepad",
+      "parameters": {},
+      "confidence": 0.9,
+      "original_command": "open Notepad"
+    },
+    "result": {
+      "success": true,
+      "message": "Successfully launched notepad",
+      "execution_time": 0.009222030639648438
+    },
+    "execution_time": 0.009222030639648438
+  },
+  {
+    "timestamp": "2025-08-28T18:31:41.746149",
+    "command": "open browser",
+    "intent": {
+      "action": "open_application",
+      "target": "browser",
+      "parameters": {},
+      "confidence": 0.9,
+      "original_command": "open browser"
+    },
+    "result": {
+      "success": true,
+      "message": "Successfully launched browser",
+      "execution_time": 0.007813215255737305
+    },
+    "execution_time": 0.007813215255737305
+  },
+  {
+    "timestamp": "2025-08-28T18:35:18.070756",
+    "command": "open browser",
+    "intent": {
+      "action": "open_application",
+      "target": "browser",
+      "parameters": {},
+      "confidence": 0.9,
+      "original_command": "open browser"
+    },
+    "result": {
+      "success": true,
+      "message": "Successfully launched browser",
+      "execution_time": 0.007308006286621094
+    },
+    "execution_time": 0.007308006286621094
+  },
+  {
+    "timestamp": "2025-08-28T18:35:37.471688",
+    "command": "open text editor",
+    "intent": {
+      "action": "open_application",
+      "target": "notepad",
+      "parameters": {},
+      "confidence": 0.9,
+      "original_command": "open text editor"
+    },
+    "result": {
+      "success": true,
+      "message": "Successfully launched notepad",
+      "execution_time": 0.007678031921386719
+    },
+    "execution_time": 0.007678031921386719
+  },
+  {
+    "timestamp": "2025-08-28T18:35:44.181320",
+    "command": "open terminal",
+    "intent": {
+      "action": "open_application",
+      "target": "cmd",
+      "parameters": {},
+      "confidence": 0.9,
+      "original_command": "open terminal"
+    },
+    "result": {
+      "success": true,
+      "message": "Successfully launched cmd",
+      "execution_time": 0.006958961486816406
+    },
+    "execution_time": 0.006958961486816406
+  },
+  {
+    "timestamp": "2025-08-28T18:35:52.728272",
+    "command": "open vs code",
+    "intent": {
+      "action": "open_application",
+      "target": "code",
+      "parameters": {},
+      "confidence": 0.9,
+      "original_command": "open vs code"
+    },
+    "result": {
+      "success": false,
+      "message": "Failed to launch code: [Errno 2] No such file or directory: 'code'",
+      "execution_time": 0.009504079818725586
+    },
+    "execution_time": 0.009504079818725586
+  },
+  {
+    "timestamp": "2025-08-28T18:36:04.087742",
+    "command": "open Chrome",
+    "intent": {
+      "action": "open_application",
+      "target": "browser",
+      "parameters": {},
+      "confidence": 0.9,
+      "original_command": "open Chrome"
+    },
+    "result": {
+      "success": true,
+      "message": "Successfully launched browser",
+      "execution_time": 0.00537872314453125
+    },
+    "execution_time": 0.00537872314453125
+  },
+  {
+    "timestamp": "2025-08-28T18:38:35.898269",
+    "command": "open browser",
+    "intent": {
+      "action": "open_application",
+      "target": "browser",
+      "parameters": {},
+      "confidence": 0.9,
+      "original_command": "open browser"
+    },
+    "result": {
+      "success": true,
+      "message": "Successfully launched browser",
+      "execution_time": 0.008439064025878906
+    },
+    "execution_time": 0.008439064025878906
+  },
+  {
+    "timestamp": "2025-08-28T18:38:42.897466",
+    "command": "open calculator",
+    "intent": {
+      "action": "open_application",
+      "target": "calculator",
+      "parameters": {},
+      "confidence": 0.9,
+      "original_command": "open calculator"
+    },
+    "result": {
+      "success": true,
+      "message": "Successfully launched calculator",
+      "execution_time": 0.0052258968353271484
+    },
+    "execution_time": 0.0052258968353271484
+  },
+  {
+    "timestamp": "2025-08-28T18:39:26.419982",
+    "command": "write a text file",
+    "intent": {
+      "action": "file_operation",
+      "target": "write",
+      "parameters": {},
+      "confidence": 0.8,
+      "original_command": "write a text file"
+    },
+    "result": {
+      "success": true,
+      "message": "Written content to: untitled.txt",
+      "execution_time": 0.000965118408203125
+    },
+    "execution_time": 0.000965118408203125
+  },
+  {
+    "timestamp": "2025-08-28T18:44:20.221014",
+    "command": "open browser",
+    "intent": {
+      "action": "open_application",
+      "target": "browser",
+      "parameters": {},
+      "confidence": 0.9,
+      "original_command": "open browser"
+    },
+    "result": {
+      "success": true,
+      "message": "Successfully launched browser",
+      "execution_time": 0.006147861480712891
+    },
+    "execution_time": 0.006147861480712891
+  },
+  {
+    "timestamp": "2025-08-28T18:44:26.775972",
+    "command": "open calculator",
+    "intent": {
+      "action": "open_application",
+      "target": "calculator",
+      "parameters": {},
+      "confidence": 0.9,
+      "original_command": "open calculator"
+    },
+    "result": {
+      "success": true,
+      "message": "Successfully launched calculator",
+      "execution_time": 0.007012844085693359
+    },
+    "execution_time": 0.007012844085693359
+  },
+  {
+    "timestamp": "2025-08-28T18:45:17.190296",
+    "command": "open browser",
+    "intent": {
+      "action": "open_application",
+      "target": "browser",
+      "parameters": {},
+      "confidence": 0.9,
+      "original_command": "open browser"
+    },
+    "result": {
+      "success": true,
+      "message": "Successfully launched browser",
+      "execution_time": 0.0069696903228759766
+    },
+    "execution_time": 0.0069696903228759766
+  },
+  {
+    "timestamp": "2025-08-28T18:45:29.302109",
+    "command": "open calculator",
+    "intent": {
+      "action": "open_application",
+      "target": "calculator",
+      "parameters": {},
+      "confidence": 0.9,
+      "original_command": "open calculator"
+    },
+    "result": {
+      "success": true,
+      "message": "Successfully launched calculator",
+      "execution_time": 0.007227182388305664
+    },
+    "execution_time": 0.007227182388305664
+  },
+  {
+    "timestamp": "2025-08-28T18:45:44.399086",
+    "command": "open terminal",
+    "intent": {
+      "action": "open_application",
+      "target": "cmd",
+      "parameters": {},
+      "confidence": 0.9,
+      "original_command": "open terminal"
+    },
+    "result": {
+      "success": true,
+      "message": "Successfully launched cmd",
+      "execution_time": 0.006273031234741211
+    },
+    "execution_time": 0.006273031234741211
+  },
+  {
+    "timestamp": "2025-08-28T18:46:02.788184",
+    "command": "open text editor",
+    "intent": {
+      "action": "open_application",
+      "target": "notepad",
+      "parameters": {},
+      "confidence": 0.9,
+      "original_command": "open text editor"
+    },
+    "result": {
+      "success": true,
+      "message": "Successfully launched notepad",
+      "execution_time": 0.0068891048431396484
+    },
+    "execution_time": 0.0068891048431396484
+  }
+]
